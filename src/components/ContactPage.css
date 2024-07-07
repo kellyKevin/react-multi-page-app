@@ -1,0 +1,39 @@
+/* src/components/ContactPage.css */
+
+.contact-page {
+    padding: 20px;
+    text-align: center;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.contact-form label {
+    font-weight: bold;
+}
+
+.contact-form input, .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.contact-form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.contact-form button:hover {
+    background-color: #0056b3;
+}

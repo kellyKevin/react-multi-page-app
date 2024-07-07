@@ -1,0 +1,40 @@
+/* src/components/HomePage.css */
+
+.home-page {
+    text-align: center;
+    padding: 20px;
+}
+
+.hero-section {
+    background-color: #007bff;
+    color: white;
+    padding: 50px 20px;
+    margin-bottom: 20px;
+}
+
+.cta-button {
+    background-color: white;
+    color: #007bff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.cta-button:hover {
+    background-color: #0056b3;
+    color: white;
+}
+
+.introduction-section, .feature-section {
+    margin: 20px 0;
+}
+
+.feature-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.feature-section li {
+    margin: 10px 0;
+}

@@ -1,0 +1,10 @@
+/* src/components/AboutPage.css */
+
+.about-page {
+    padding: 20px;
+    text-align: center;
+}
+
+.our-mission, .our-team {
+    margin: 20px 0;
+}
