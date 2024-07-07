@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kellyKevin/react-multi-page-app.git/static/css/main.ad398960.css",
-    "main.js": "/kellyKevin/react-multi-page-app.git/static/js/main.b5c0312c.js",
-    "static/js/453.17e3ba4f.chunk.js": "/kellyKevin/react-multi-page-app.git/static/js/453.17e3ba4f.chunk.js",
-    "index.html": "/kellyKevin/react-multi-page-app.git/index.html",
-    "main.ad398960.css.map": "/kellyKevin/react-multi-page-app.git/static/css/main.ad398960.css.map",
-    "main.b5c0312c.js.map": "/kellyKevin/react-multi-page-app.git/static/js/main.b5c0312c.js.map",
-    "453.17e3ba4f.chunk.js.map": "/kellyKevin/react-multi-page-app.git/static/js/453.17e3ba4f.chunk.js.map"
+    "main.css": "/react-multi-page-app/static/css/main.ad398960.css",
+    "main.js": "/react-multi-page-app/static/js/main.ef228503.js",
+    "static/js/453.17e3ba4f.chunk.js": "/react-multi-page-app/static/js/453.17e3ba4f.chunk.js",
+    "index.html": "/react-multi-page-app/index.html",
+    "main.ad398960.css.map": "/react-multi-page-app/static/css/main.ad398960.css.map",
+    "main.ef228503.js.map": "/react-multi-page-app/static/js/main.ef228503.js.map",
+    "453.17e3ba4f.chunk.js.map": "/react-multi-page-app/static/js/453.17e3ba4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad398960.css",
-    "static/js/main.b5c0312c.js"
+    "static/js/main.ef228503.js"
   ]
 }
